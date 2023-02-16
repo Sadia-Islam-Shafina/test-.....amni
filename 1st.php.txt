@@ -1,0 +1,11 @@
+<?
+$name="Sadia";
+$id=1234;
+$cgpa=3.67;
+print($name);
+echo"She is an Aiubian";
+
+
+
+
+?>
